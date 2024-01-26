@@ -39,11 +39,11 @@
     "sway-git": {
       "flake": false,
       "locked": {
-        "lastModified": 1705870895,
-        "narHash": "sha256-20GAexhE095W7DQR8oh2pYYFHe7GpF3CkcsRQM6xcpg=",
+        "lastModified": 1706195613,
+        "narHash": "sha256-KJwj5Lq0o8jfkmq76eUvrfN9W3l6BDqNOsaBJPp8pL0=",
         "owner": "swaywm",
         "repo": "sway",
-        "rev": "e8c421e917ac59cdf50e5fd366155ea875e4a29e",
+        "rev": "f202bc84d2c072ae39fc4e8a350a8b0a616f350b",
         "type": "github"
       },
       "original": {
@@ -56,11 +56,11 @@
       "flake": false,
       "locked": {
         "host": "gitlab.freedesktop.org",
-        "lastModified": 1705602032,
-        "narHash": "sha256-AlIFB2MN2Du1lbtxHnXYSyaSKt+dbGHBxcW6Xqmv/z8=",
+        "lastModified": 1706195136,
+        "narHash": "sha256-txKaUrzdI/PVC+LtIIcosRMyYy9I+LCSpQPLv3QLt8U=",
         "owner": "wlroots",
         "repo": "wlroots",
-        "rev": "0b090c83fb5b5c5741d9a9566a499eabbe079f38",
+        "rev": "d1b39b58432c471c16e09103fd2c7850e3c41950",
         "type": "gitlab"
       },
       "original": {
