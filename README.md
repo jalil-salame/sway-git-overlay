@@ -1,5 +1,9 @@
 # Sway git overlay
 
+> [!Warning]
+> This repo is unmantained, you should instead use
+> [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland)
+
 An overlay for `nix` that adds `sway`'s git version to your packages.
 
 ## Usage
