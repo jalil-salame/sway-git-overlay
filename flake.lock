@@ -16,12 +16,12 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1705856552,
-        "narHash": "sha256-JXfnuEf5Yd6bhMs/uvM67/joxYKoysyE3M2k6T3eWbg=",
-        "rev": "612f97239e2cc474c13c9dafa0df378058c5ad8d",
-        "revCount": 574351,
+        "lastModified": 1707268954,
+        "narHash": "sha256-2en1kvde3cJVc3ZnTy8QeD2oKcseLFjYPLKhIGDanQ0=",
+        "rev": "f8e2ebd66d097614d51a56a755450d4ae1632df1",
+        "revCount": 581229,
         "type": "tarball",
-        "url": "https://api.flakehub.com/f/pinned/NixOS/nixpkgs/0.1.574351%2Brev-612f97239e2cc474c13c9dafa0df378058c5ad8d/018d3085-aff0-7a0b-ab80-1a9c414de8cd/source.tar.gz"
+        "url": "https://api.flakehub.com/f/pinned/NixOS/nixpkgs/0.1.581229%2Brev-f8e2ebd66d097614d51a56a755450d4ae1632df1/018d8a37-bd05-79cb-a42f-290c1f0ca0ce/source.tar.gz"
       },
       "original": {
         "type": "tarball",
@@ -39,11 +39,11 @@
     "sway-git": {
       "flake": false,
       "locked": {
-        "lastModified": 1706195613,
-        "narHash": "sha256-KJwj5Lq0o8jfkmq76eUvrfN9W3l6BDqNOsaBJPp8pL0=",
+        "lastModified": 1707426684,
+        "narHash": "sha256-oHgWAFUe2DgWuN9R0LfJwn2nOOwzgTnBlWagsfihOuQ=",
         "owner": "swaywm",
         "repo": "sway",
-        "rev": "f202bc84d2c072ae39fc4e8a350a8b0a616f350b",
+        "rev": "88b2abf5f208422ffc503c2c1d2a0de95d9ec4c5",
         "type": "github"
       },
       "original": {
@@ -56,11 +56,11 @@
       "flake": false,
       "locked": {
         "host": "gitlab.freedesktop.org",
-        "lastModified": 1706195136,
-        "narHash": "sha256-txKaUrzdI/PVC+LtIIcosRMyYy9I+LCSpQPLv3QLt8U=",
+        "lastModified": 1707246369,
+        "narHash": "sha256-ou/gImZfa+YO8ir3ENaT727QlO8bpqwSkkhPlVB45hU=",
         "owner": "wlroots",
         "repo": "wlroots",
-        "rev": "d1b39b58432c471c16e09103fd2c7850e3c41950",
+        "rev": "cb815e88476cac1fb5ce2e369672e4beb4f5d469",
         "type": "gitlab"
       },
       "original": {
